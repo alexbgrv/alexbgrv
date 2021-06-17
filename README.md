@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexbgrv
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS, NodeJS, Vue
 
