@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, Web
+- 🌱 I’m currently learning Java, Web, Software testing
 
 <!---
 alexbgrv/alexbgrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
